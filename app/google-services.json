@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834520446265",
+    "project_id": "houseproject-f9033",
+    "storage_bucket": "houseproject-f9033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834520446265:android:4c98decc187909558ce4e8",
+        "android_client_info": {
+          "package_name": "com.example.houseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834520446265-2fqbdb2sev1ul7tj8b31cg5drk40m54k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zuSR_SvcnyegkUj_s-qAb7bK0dOBUEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834520446265-2fqbdb2sev1ul7tj8b31cg5drk40m54k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
